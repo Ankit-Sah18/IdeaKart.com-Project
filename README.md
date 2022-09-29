@@ -1,4 +1,4 @@
-# Individual-Project created by Ankit Sah
+# IdeaKart-Project created by Ankit Sah
 
 **I have cloned a website of IdeaKart.com, Ideakart is a site that give you an idea about the book useres want to buy.** Ideakart offers a huge collection of books in diverse categories. This website has a user friendly search engine and a quick delivery system. With this we even provide best discounts on our books. You can write to us for any idea or any help you need.
 
