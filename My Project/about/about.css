@@ -1,0 +1,33 @@
+#containerA {
+    width: 85%;
+    margin: auto;
+    margin-top: 10px;
+}
+#containerA p{
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+#ul{
+    width: 79%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+#ul p{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+li{
+    margin-left: 40px;
+}
+#ul a{
+    text-decoration: none;
+    color: #337ab7;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ul a:hover{
+    color: rgb(58, 92, 92);
+    text-decoration: underline;
+}

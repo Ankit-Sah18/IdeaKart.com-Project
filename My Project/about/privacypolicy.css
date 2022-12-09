@@ -1,0 +1,43 @@
+#containerP{
+    width: 85%;
+    margin: auto;
+}
+#containerP h1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 100;
+    font-size: 35px;
+    letter-spacing: 0.6px;
+}
+#containerP p,li,i{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    word-spacing: 2px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+}
+#containerP h4{
+    font-size: 12px;
+    margin-bottom: 4px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#containerP span>p{
+    margin-bottom: 0px;
+}
+ul{
+    margin: 10px 0px;
+}
+#containerP hr{
+    border: 1px solid white;
+}
+#containerP a{
+    text-decoration: none;
+    color: #337ab7;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#containerP a:hover{
+    color: rgb(100, 129, 129);
+    text-decoration: underline;
+}

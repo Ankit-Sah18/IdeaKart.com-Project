@@ -1,0 +1,24 @@
+#containerR {
+    width: 85%;
+    margin: auto;
+}
+#containerR h1 {
+    font-size: 35px;
+    font-family: inherit;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    letter-spacing: 0.6px;
+}
+#containerR p{
+   font-size: 21px;
+   /* margin-bottom: 18px; */
+   line-height: 42px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#containerR h2{
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
